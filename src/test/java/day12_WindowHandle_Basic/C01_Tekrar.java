@@ -39,6 +39,8 @@ public class C01_Tekrar extends TestBase {
 //    linkedIn sayfasına geçiniz
         switchToWindow(2);
 
+        System.out.println();
+
 
     }
 }

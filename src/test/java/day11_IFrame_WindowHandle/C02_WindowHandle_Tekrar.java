@@ -1,10 +1,9 @@
 package day11_IFrame_WindowHandle;
 
-import Utilities.TestBase;
+import utilities.TestBase;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WindowType;
 
 import java.util.Set;
 

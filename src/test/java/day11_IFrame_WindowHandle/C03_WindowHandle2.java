@@ -1,7 +1,6 @@
 package day11_IFrame_WindowHandle;
 
-import Utilities.TestBase;
-import org.junit.Assert;
+import utilities.TestBase;
 import org.junit.Test;
 import org.openqa.selenium.WindowType;
 

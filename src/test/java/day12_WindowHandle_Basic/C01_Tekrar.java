@@ -1,7 +1,6 @@
 package day12_WindowHandle_Basic;
 
-import Utilities.TestBase;
-import com.sun.source.tree.AssertTree;
+import utilities.TestBase;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.WindowType;

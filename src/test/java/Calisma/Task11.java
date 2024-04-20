@@ -17,13 +17,4 @@ public class Task11 extends TestBase {
     -Excel dosyasından aldığımız kullanıcı bilgileri ile login olalım
     -Login olduğumuzu doğrulayalım
     */
-
-    @Test
-    public void name() {
-        Workbook workbook = XSSFWorkbook();
-    }
-
-    @Test
-    public void login() {
-    }
 }
